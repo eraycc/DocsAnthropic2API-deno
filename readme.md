@@ -1,4 +1,4 @@
-# Inkeep API Proxy for Deno
+# DocsAnthropic Reverse API Proxy for Deno
 
 A Deno-compatible proxy server that forwards requests to the Inkeep API with enhanced authentication and token management.
 
